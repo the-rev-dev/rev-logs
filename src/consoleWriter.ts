@@ -1,8 +1,7 @@
-#!/usr/bin/env node
 import chalk from "chalk";
 import figlet from 'figlet';
 
-const clearConsole = require('clear');
+import clearConsole from 'clear';
 // const path = require('path');
 
 export enum Font {
