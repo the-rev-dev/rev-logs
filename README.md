@@ -1,2 +1,2 @@
-# rev-log-writer
+# rev-loggin
 Generic typescript log writing utility.
