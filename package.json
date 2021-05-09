@@ -1,6 +1,6 @@
 {
   "name": "rev-logging",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Generic typescript log writing utility.",
   "files": [
     "lib"
